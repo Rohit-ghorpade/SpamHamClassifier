@@ -1,1 +1,1 @@
-# machine learning model that classifies sensor readings as either "Good" or "Bad"
+# classify text messages as spam or ham using natural language processing techniques.
